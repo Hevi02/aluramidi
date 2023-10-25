@@ -13,7 +13,7 @@ function tocaSomTim(){
 }
     document.querySelector('.tecla_tim').onclick=tocaSomTim;
 
-    function tocaSompuff(){
+    function tocaSomPuff(){
         document.querySelector('#som_tecla_puff').play();
     }
         document.querySelector('.tecla_puff').onclick=tocaSomPuff;
