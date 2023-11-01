@@ -19,11 +19,11 @@ function tocaSomPuff(){
         document.querySelector('.tecla_puff').onclick=tocaSomPuff;
 
 function tocaSomSplash(){
-            document.querySelector('#.tecla_splash').play();
+            document.querySelector('#tecla_splash').play();
         }
         document.querySelector('.tecla_splash').onclick=tocaSomSplash
 
 function tocaSomToim(){
-            document.querySelector('#.tecla_toim').play();
+            document.querySelector('#tecla_toim').play();
         }
         document.querySelector('tecla_toim').onclick=tocaSomToim
