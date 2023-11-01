@@ -13,17 +13,17 @@ function tocaSomTim(){
 }
     document.querySelector('.tecla_tim').onclick=tocaSomTim;
 
-    function tocaSomPuff(){
+function tocaSomPuff(){
         document.querySelector('#som_tecla_puff').play();
     }
         document.querySelector('.tecla_puff').onclick=tocaSomPuff;
 
-        function tocaSomSplash(){
+function tocaSomSplash(){
             document.querySelector('#.tecla_splash').play();
         }
         document.querySelector('.tecla_splash').onclick=tocaSomSplash
 
-        function tocaSomToim(){
+function tocaSomToim(){
             document.querySelector('#.tecla_toim').play();
         }
         document.querySelector('tecla_toim').onclick=tocaSomToim
