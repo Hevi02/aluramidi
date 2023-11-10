@@ -8,7 +8,7 @@
 
 body {
   align-items: center;
-  background: url(/imagem/afro.jpg)
+  background-image;: url(/imagem/afro.jpg)
   display: flex;
   justify-content: center;
   flex-direction: column;
