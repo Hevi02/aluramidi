@@ -23,7 +23,7 @@ h1 {
 }
 
 .teclado {
-  background-image: url(/imagem/afro3.jpg);
+  background-color: #af303f;
   box-shadow: 6px 8px 0 6px #000, 10px 10px 10px #000;
   border-radius: 30px;
   display: grid;
